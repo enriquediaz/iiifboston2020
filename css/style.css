@@ -4337,3 +4337,7 @@ faq-item
 .day-title {
   margin-bottom: 30px;
 }
+
+.location-image {
+  max-width: 100%;
+}
