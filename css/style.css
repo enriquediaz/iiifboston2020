@@ -900,7 +900,7 @@ img.pull-right {
   min-height: 850px;
   color: #fff;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: initial;
   background-position: center center;
   -webkit-backface-visibility: hidden;
   position: relative;
@@ -1210,7 +1210,7 @@ img.pull-right {
   min-height: 650px;
   -webkit-box-shadow: 0px 100px 100px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 100px 100px 0px rgba(0, 0, 0, 0.2);
-  background-position: top center;
+  background-position: -619px -568px;
 }
 
 .hero-area.content-left .banner-item .banner-content-wrap {
