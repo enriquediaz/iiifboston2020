@@ -2,11 +2,11 @@
 	Template Name: exhibz
 	Author: Themewinter
 	Author URI: https://themeforest.net/user/tripples
-	Description: Exhibz conference html template. 
+	Description: Exhibz conference html template.
   Version: 1.1
 
 =====================
-   table of content 
+   table of content
 ====================
 
 1.   Typography
@@ -16,19 +16,19 @@
 5    intro area
 6.   ts speakers area
 7.   experiyence area
-8.   schedule area 
-9.   pricing area 
-10.  blog area 
-11.  sponsros area 
-12.  map direction area 
-13.  newsletter area 
-14.  footer area 
-15.  funfact area 
-16.  contact area 
-17.  blog details area 
-18.  about area 
-19.  faq area 
-20.  404  
+8.   schedule area
+9.   pricing area
+10.  blog area
+11.  sponsros area
+12.  map direction area
+13.  newsletter area
+14.  footer area
+15.  funfact area
+16.  contact area
+17.  blog details area
+18.  about area
+19.  faq area
+20.  404
 */
 /*
 	Template Name: Exhibit -  Conference & Event HTML Template
@@ -44,7 +44,7 @@
 3.  Header area
 4.	Banner area
 
-	
+
 */
 @import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i");
 @import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
@@ -1849,7 +1849,7 @@ img.pull-right {
 }
 
 /*============================
- ts schedule 
+ ts schedule
  ===========================*/
 .ts-schedule-info {
   position: relative;
@@ -3196,7 +3196,7 @@ img.pull-right {
 }
 
 /*==================================
-   ts funfact 
+   ts funfact
  ==================================*/
 .ts-funfact {
   background-repeat: no-repeat;
@@ -4221,7 +4221,7 @@ faq-item
 }
 
 /* =================
-// Exprience 
+// Exprience
 =====================*/
 .ts-exprience {
   position: relative;
@@ -4333,3 +4333,7 @@ faq-item
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.day-title {
+  margin-bottom: 30px;
+}
